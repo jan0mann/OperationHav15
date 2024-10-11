@@ -12,3 +12,4 @@
 /Users/janferchof/Documents/VSCode/OperationHav15/obj/Debug/net9.0/OperationHav15.pdb
 /Users/janferchof/Documents/VSCode/OperationHav15/obj/Debug/net9.0/OperationHav15.genruntimeconfig.cache
 /Users/janferchof/Documents/VSCode/OperationHav15/obj/Debug/net9.0/ref/OperationHav15.dll
+/Users/janferchof/Documents/VSCode/OperationHav15/obj/Debug/net9.0/OperationHav15.sourcelink.json
